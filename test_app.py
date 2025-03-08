@@ -1,4 +1,3 @@
-# test_app .py
 import unittest
 # For a simple example , we simply test True .
 class TestApp ( unittest . TestCase ):
